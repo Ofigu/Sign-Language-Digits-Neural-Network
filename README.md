@@ -51,8 +51,8 @@ epochs = # configurable
 - Google Colab (recommended environment)
 
 ## Authors
-- Ofir Almog (207918731)
-- Adir Edri (206991762)
+- Ofir Almog 
+- Adir Edri
 
 ## Course Information
 Mid-semester assignment Part 1 - Basics of Deep Learning
